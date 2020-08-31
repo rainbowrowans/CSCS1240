@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T13:07:08.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="ub5mpQU0j14upaqcb24x" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T13:19:49.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="AoA0NFvXsethuSULatyE" version="13.6.6" type="github">
   <diagram id="BXUJMwjP2SMk3DecHQQP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,17 @@
         <mxCell id="XIha6mT6FIcCsblx_nkS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3tbXRplKaVmhT3D8OlYL-1" value="minecraft&lt;br&gt;world&lt;br&gt;player&lt;br&gt;crafting&lt;br&gt;food&lt;br&gt;builds&lt;br&gt;structures&lt;br&gt;dragon&lt;br&gt;enemies&lt;br&gt;survival&lt;br&gt;creative" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3tbXRplKaVmhT3D8OlYL-1" value="minecraft&lt;br&gt;world&lt;br&gt;player&lt;br&gt;crafting&lt;br&gt;food&lt;br&gt;builds&lt;br&gt;structures&lt;br&gt;dragon&lt;br&gt;enemies&lt;br&gt;survival&lt;br&gt;creative" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zXy6oFQpmh7alvBaQmdc-5" value="inventory" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="100" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="zXy6oFQpmh7alvBaQmdc-6" value="stock, capacity, mumber" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="zXy6oFQpmh7alvBaQmdc-5">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zXy6oFQpmh7alvBaQmdc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="156" width="160" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
